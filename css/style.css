@@ -1,0 +1,43 @@
+.h1
+{
+	color:green;
+}
+.h4
+{
+	color:brown;
+}
+.h40
+{
+	color:violet;
+}
+p.p1
+{
+	color: lightcoral;
+}
+.h41
+{
+	color:crimson;
+}
+.item {
+    text-align: justify;
+    color:green;
+    width:280;
+}
+.container {
+    text-align: justify;
+    color:orange;
+    width:280;
+}
+#h5
+{
+	color:navy;
+}
+p#p1
+{
+	color:purple;
+}
+
+
+ 
+
+
